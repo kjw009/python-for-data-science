@@ -523,7 +523,7 @@ Documents/
 
 Before your first class, make sure you can tick all of these:
 
-- [ ] I have a GitHub account
+- [X] I have a GitHub account
 - [ ] Git is installed and configured with my name and email
 - [ ] Python is installed (`python --version` works)
 - [ ] VS Code is installed with the Python and Jupyter extensions
